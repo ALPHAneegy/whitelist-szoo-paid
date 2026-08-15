@@ -1,0 +1,1 @@
+# whitelist-szoo-paid
