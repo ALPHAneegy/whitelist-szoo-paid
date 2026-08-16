@@ -1,6 +1,6 @@
 return {
     ["UNch4l4nT"] = true,
-    [""] = true,
+    ["SmurfingIsGood12"] = true,
     [""] = true,
     [""] = true,
     [""] = true,
