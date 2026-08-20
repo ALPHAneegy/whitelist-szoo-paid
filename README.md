@@ -3,7 +3,7 @@ return {
     ["SmurfingIsGood12"] = true,
     ["Adrian264643"] = true,
     ["Angelgamer_156"] = true,
-    [""] = true,
+    ["MG_JHONNY1"] = true,
     [""] = true,
     [""] = true,
     [""] = true,
