@@ -6,7 +6,7 @@ return {
     ["MG_JHONNY1"] = true,
     ["Legends_KINGSPEED"] = true,
     ["Sn1Ch3d"] = true,
-    [""] = true,
+    ["LULU_12345028"] = true,
     [""] = true,
     [""] = true,
 }
