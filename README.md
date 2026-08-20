@@ -5,7 +5,7 @@ return {
     ["Angelgamer_156"] = true,
     ["MG_JHONNY1"] = true,
     ["Legends_KINGSPEED"] = true,
-    ["Sn1ch3d"] = true,
+    ["Sn1Ch3d"] = true,
     [""] = true,
     [""] = true,
     [""] = true,
