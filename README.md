@@ -7,6 +7,6 @@ return {
     ["Legends_KINGSPEED"] = true,
     ["Sn1Ch3d"] = true,
     ["LULU_12345028"] = true,
-    [""] = true,
+    ["Zachinatorr"] = true,
     [""] = true,
 }
