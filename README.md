@@ -9,4 +9,5 @@ return {
     ["LULU_12345028"] = true,
     ["Zachinatorr"] = true,
     ["jose292036"] = true,
+    ["juandiego20401"] = true,
 }
