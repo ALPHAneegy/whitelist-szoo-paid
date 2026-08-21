@@ -8,5 +8,5 @@ return {
     ["Sn1Ch3d"] = true,
     ["LULU_12345028"] = true,
     ["Zachinatorr"] = true,
-    [""] = true,
+    ["jose292036"] = true,
 }
