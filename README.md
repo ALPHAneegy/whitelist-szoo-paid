@@ -10,4 +10,6 @@ return {
     ["Zachinatorr"] = true,
     ["jose292036"] = true,
     ["juandiego20401"] = true,
+    ["HydraPAPAS123"] = true,
+    [""] = true,
 }
