@@ -11,5 +11,5 @@ return {
     ["jose292036"] = true,
     ["juandiego20401"] = true,
     ["HydraPAPAS123"] = true,
-    ["Maniaccone"] = true,
+    ["maniaccone"] = true,
 }
