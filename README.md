@@ -12,7 +12,7 @@ return {
     ["juandiego20401"] = true,
     ["HydraPAPAS123"] = true,
     ["maniaccone"] = true,
-    ["C4rlosCre33sp0"] = true,
+    ["C4rlosCr33sp0"] = true,
     [""] = true,
     [""] = true,
     [""] = true,
